@@ -39,7 +39,7 @@
   <acces origin="http://*/*"/>
   <plugin name="cordova-plugin-whitelist" source="npm"/>
   <!--colocar icono app-->
-  <icon src="res/android/mdpi.jpg"/>
+  <icon src="res/android/mdpi.png"/>
   </Widget>
 
 
